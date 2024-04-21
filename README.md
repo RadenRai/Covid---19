@@ -17,6 +17,12 @@ Pip adalah sistem manajemen paket yang digunakan untuk menginstal dan mengelola 
 
 ```bash
 python get-pip.py
+```
+3. Instalasi Package Scrapper in Python
+```bash
 pip install scrapper
+```
+4. Instalasi Library Cluster
+```bash
 pip install cluster
 
